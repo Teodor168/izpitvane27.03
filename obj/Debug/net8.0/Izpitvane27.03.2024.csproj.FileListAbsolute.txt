@@ -1,0 +1,14 @@
+C:\Users\STUDENTS-1212-3\Documents\TeodorIliev9a\Izpitvane27.03.2024\obj\Debug\net8.0\Izpitvane27.03.2024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENTS-1212-3\Documents\TeodorIliev9a\Izpitvane27.03.2024\obj\Debug\net8.0\Izpitvane27.03.2024.AssemblyInfoInputs.cache
+C:\Users\STUDENTS-1212-3\Documents\TeodorIliev9a\Izpitvane27.03.2024\obj\Debug\net8.0\Izpitvane27.03.2024.AssemblyInfo.cs
+C:\Users\STUDENTS-1212-3\Documents\TeodorIliev9a\Izpitvane27.03.2024\obj\Debug\net8.0\Izpitvane27.03.2024.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1212-3\Documents\TeodorIliev9a\Izpitvane27.03.2024\bin\Debug\net8.0\Izpitvane27.03.2024.exe
+C:\Users\STUDENTS-1212-3\Documents\TeodorIliev9a\Izpitvane27.03.2024\bin\Debug\net8.0\Izpitvane27.03.2024.deps.json
+C:\Users\STUDENTS-1212-3\Documents\TeodorIliev9a\Izpitvane27.03.2024\bin\Debug\net8.0\Izpitvane27.03.2024.runtimeconfig.json
+C:\Users\STUDENTS-1212-3\Documents\TeodorIliev9a\Izpitvane27.03.2024\bin\Debug\net8.0\Izpitvane27.03.2024.dll
+C:\Users\STUDENTS-1212-3\Documents\TeodorIliev9a\Izpitvane27.03.2024\bin\Debug\net8.0\Izpitvane27.03.2024.pdb
+C:\Users\STUDENTS-1212-3\Documents\TeodorIliev9a\Izpitvane27.03.2024\obj\Debug\net8.0\Izpitvane27.03.2024.dll
+C:\Users\STUDENTS-1212-3\Documents\TeodorIliev9a\Izpitvane27.03.2024\obj\Debug\net8.0\refint\Izpitvane27.03.2024.dll
+C:\Users\STUDENTS-1212-3\Documents\TeodorIliev9a\Izpitvane27.03.2024\obj\Debug\net8.0\Izpitvane27.03.2024.pdb
+C:\Users\STUDENTS-1212-3\Documents\TeodorIliev9a\Izpitvane27.03.2024\obj\Debug\net8.0\Izpitvane27.03.2024.genruntimeconfig.cache
+C:\Users\STUDENTS-1212-3\Documents\TeodorIliev9a\Izpitvane27.03.2024\obj\Debug\net8.0\ref\Izpitvane27.03.2024.dll

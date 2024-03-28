@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Izpitvane27.03.2024/1.0.0": {
+        "runtime": {
+          "Izpitvane27.03.2024.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Izpitvane27.03.2024/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
